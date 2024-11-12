@@ -9,7 +9,7 @@ def isOurGameOver():
 
 #Change The Path
 
-stockfish = Stockfish("C:/Users/Emre/OneDrive - Akdeniz Üniversitesi/Masaüstü/Lectures/2. Sınıf/2.2/Discrete Mathematics II/stockfish/stockfish-windows-x86-64-avx2.exe")
+stockfish = Stockfish("../Discrete Mathematics II/stockfish/stockfish-windows-x86-64-avx2.exe")
 stockfish.set_depth(5)
 stockfish.set_skill_level(20)
 stockfish.update_engine_parameters({
