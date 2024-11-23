@@ -1,6 +1,6 @@
 # Chess Bot
 
-Chess Bot is a terminal-based chess program that detects the best 3 moves and moves the pieces randomly.
+Chess Bot is a GUI-based chess program that detects the best 3 moves and moves the pieces randomly.
 
 ## Features
 
