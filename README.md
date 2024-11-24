@@ -24,13 +24,7 @@ To install and run the Chess Bot, follow these steps:
    ```sh
    pip install -r requirements.txt
    ```
-
-## Additional Information
-
--  Blue icons represent white pieces.
--  Other icons represent black pieces.
--  If an icon has a star on top, it indicates the king piece.
-
+   
 ## Usage
 
 To start the Chess Bot, run the following command in your terminal:
